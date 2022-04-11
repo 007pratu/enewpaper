@@ -1,0 +1,109 @@
+{
+    margin: 0;
+    padding: 0;
+    box sizing: border-box;
+}
+body{
+    font-family:'open Sans', sans-serif;
+    width: 90%;
+    margin: auto;
+    padding: 0;
+
+}
+.hr1{
+    display: block;
+    height: 1px;
+    border:0;
+    border-top: 1px solid black;
+    padding: 0;
+}
+.news-link{
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: auto;
+    padding: 10px;
+    margin-left: 0px;
+    border-left: ;
+}
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 50px;
+    line-height: 50px;
+    background-color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+
+}
+li{
+    float: left;
+    border-right: rgb(208, 216, 208);
+    margin-bottom: 30px;
+
+}
+a{
+    display: block;
+    padding: 0 28px;
+    color: rgb(241, 235, 235);
+    text-decoration: none;
+}
+a:hover .active a{
+    background-color: rgb(233, 227, 227);
+}
+h1{
+    font-size: 200px;
+    font-weight: 400;
+    text-align: center;
+    margin: 0;
+}
+.ad{
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 2px;
+    margin-top: 0;
+    text-transform: uppercase;
+    font-style: normal;
+    background-color: black;
+    color: white;
+    width: 85%;
+    margin: auto;
+}
+span{
+    color: black;
+    font-family: serif;
+    font-weight: 900;
+
+}
+.New>>Latest news{
+    float: left;
+    font-weight:700;
+    margin-top:10px;
+    font-size:20px;
+}
+.h2{
+    margin-top: 40px;
+    display: block;
+    height: 1px;
+    border:0;
+    border-top: 1px solid black;
+    padding: 0;
+}
+.list{
+    margin: 150px auto;
+    width: 50%;
+    padding: 8px;
+
+}
+img{
+    float: left;
+    width: 300px;
+    height: 260px;
+    padding: 0 10px 0 0;
+}
+.text{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
